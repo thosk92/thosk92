@@ -45,11 +45,11 @@
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thosk92&show_icons=true&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosk92&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thosk92&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosk92&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
