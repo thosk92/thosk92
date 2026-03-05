@@ -48,9 +48,13 @@
 ## GitHub Stats
 
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thosk92&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thosk92&layout=compact" />
+  <img src="https://img.shields.io/github/followers/thosk92?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/thosk92?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/thosk92/thosk92?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thosk92&style=for-the-badge" />
 </p>
 
 ---
