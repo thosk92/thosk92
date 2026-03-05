@@ -47,9 +47,6 @@
 
 ## GitHub Stats
 
-
-## GitHub Stats
-
 <p align="center">
   <img src="https://img.shields.io/github/followers/thosk92?style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/thosk92?style=for-the-badge" />
